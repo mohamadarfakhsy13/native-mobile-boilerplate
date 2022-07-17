@@ -1,0 +1,41 @@
+package com.arfakhsy.mobileboilerplate.ui;
+
+import androidx.appcompat.app.AppCompatActivity;
+
+import android.content.Intent;
+import android.os.Bundle;
+import android.view.View;
+
+import com.arfakhsy.mobileboilerplate.R;
+import com.arfakhsy.mobileboilerplate.StartUpActivity;
+
+public class LoginActivity extends AppCompatActivity {
+
+    @Override
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.activity_login);
+    }
+
+    public void onClickLogin(View view) {
+
+    }
+
+    public void onClickSignUp(View view) {
+
+        Intent intent = new Intent(getApplicationContext(), SignUpMainActivity.class);
+        startActivity(intent);
+    }
+
+    public void onClickForgotPassword(View view) {
+
+        Intent intent = new Intent(getApplicationContext(), ForgotPasswordActivity.class);
+        startActivity(intent);
+    }
+
+    public void onClickBack(View view) {
+
+        Intent intent = new Intent(getApplicationContext(), StartUpActivity.class);
+        startActivity(intent);
+    }
+}
