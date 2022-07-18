@@ -42,4 +42,13 @@
     <string name="enter_phone_no">Phone No</string>
     <string name="signup_success_title">Success!</string>
     <string name="signup_success_sub_title">Your account has been created.</string>
+
+    <!-- Forgot Password -->
+    <string name="forgot_password_title">Forgot\nPassword</string>
+    <string name="forgot_password_details">Enter your email address and we\'ll send you a link to reset your password</string>
+    <string name="new_password_title">Create New Password</string>
+    <string name="new_password_details">Create a new password, a strong password that you don\'t use for other websites.</string>
+    <string name="enter_new_password">New Password</string>
+    <string name="reset_password_success_title">Password Changed!</string>
+    <string name="reset_password_success_sub_title">Your password has been change successfully.</string>
 </resources>

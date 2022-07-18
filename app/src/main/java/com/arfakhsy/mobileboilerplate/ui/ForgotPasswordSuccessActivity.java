@@ -9,22 +9,22 @@ import android.view.WindowManager;
 
 import com.arfakhsy.mobileboilerplate.R;
 
-public class ForgotPasswordActivity extends AppCompatActivity {
+public class ForgotPasswordSuccessActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         getWindow().setFlags(WindowManager.LayoutParams.FLAG_FULLSCREEN, WindowManager.LayoutParams.FLAG_FULLSCREEN);
-        setContentView(R.layout.activity_forgot_password);
+        setContentView(R.layout.activity_forgot_password_success);
     }
 
-    public void onClickBack(View view) {
+    public void onClickExit(View view) {
         Intent intent = new Intent(getApplicationContext(), LoginActivity.class);
         startActivity(intent);
     }
 
-    public void onClickNext(View view) {
-        Intent intent = new Intent(getApplicationContext(),ForgotPasswordSuccessActivity.class);
+    public void onClickContinue(View view) {
+        Intent intent = new Intent(getApplicationContext(), LoginActivity.class);
         startActivity(intent);
     }
 }
