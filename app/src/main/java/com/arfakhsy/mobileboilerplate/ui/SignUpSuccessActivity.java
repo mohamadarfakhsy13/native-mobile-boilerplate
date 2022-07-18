@@ -10,29 +10,22 @@ import android.view.WindowManager;
 import com.arfakhsy.mobileboilerplate.R;
 import com.arfakhsy.mobileboilerplate.StartUpActivity;
 
-public class SignUpMainActivity extends AppCompatActivity {
+public class SignUpSuccessActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         getWindow().setFlags(WindowManager.LayoutParams.FLAG_FULLSCREEN, WindowManager.LayoutParams.FLAG_FULLSCREEN);
-        setContentView(R.layout.activity_sign_up_main);
+        setContentView(R.layout.activity_sign_up_success);
     }
 
-    public void onClickBack(View view) {
+    public void onClickExit(View view) {
         Intent intent = new Intent(getApplicationContext(), StartUpActivity.class);
         startActivity(intent);
     }
 
-    public void onClickNext(View view) {
-        Intent intent = new Intent(getApplicationContext(), SignUpPhoneActivity.class);
+    public void onClickSignUpSuccess(View view) {
+        Intent intent = new Intent(getApplicationContext(), LoginActivity.class);
         startActivity(intent);
-
     }
-
-    public void onClickLogin(View view) {
-
-    }
-
-
 }

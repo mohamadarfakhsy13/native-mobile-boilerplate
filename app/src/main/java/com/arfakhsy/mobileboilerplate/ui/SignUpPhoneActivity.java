@@ -8,31 +8,23 @@ import android.view.View;
 import android.view.WindowManager;
 
 import com.arfakhsy.mobileboilerplate.R;
-import com.arfakhsy.mobileboilerplate.StartUpActivity;
 
-public class SignUpMainActivity extends AppCompatActivity {
+public class SignUpPhoneActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         getWindow().setFlags(WindowManager.LayoutParams.FLAG_FULLSCREEN, WindowManager.LayoutParams.FLAG_FULLSCREEN);
-        setContentView(R.layout.activity_sign_up_main);
+        setContentView(R.layout.activity_sign_up_phone);
     }
 
     public void onClickBack(View view) {
-        Intent intent = new Intent(getApplicationContext(), StartUpActivity.class);
+        Intent intent = new Intent(getApplicationContext(), SignUpMainActivity.class);
         startActivity(intent);
     }
 
-    public void onClickNext(View view) {
-        Intent intent = new Intent(getApplicationContext(), SignUpPhoneActivity.class);
+    public void onClickSubmit(View view) {
+        Intent intent = new Intent(getApplicationContext(), SignUpSuccessActivity.class);
         startActivity(intent);
-
     }
-
-    public void onClickLogin(View view) {
-
-    }
-
-
 }

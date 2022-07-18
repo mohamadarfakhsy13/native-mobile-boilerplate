@@ -14,7 +14,7 @@
         android:contentDescription="@string/startup_logo"
         android:paddingLeft="20dp"
         android:paddingRight="20dp"
-        android:src="@drawable/your_logo"
+        android:src="@drawable/twistcode_logo"
         app:layout_constraintTop_toTopOf="parent" />
 
     <RelativeLayout

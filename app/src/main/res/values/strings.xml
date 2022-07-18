@@ -21,8 +21,8 @@
 
     <!-- Startup Screen -->
     <string name="startup_logo">Client logo placeholder</string>
-    <string name="startup_title_text">Title for project placeholder</string>
-    <string name="startup_description_text">Subtitle for project placeholder</string>
+    <string name="startup_title_text">Get Accurate Predictive Insights</string>
+    <string name="startup_description_text">Make better decisions by using A.I</string>
 
     <!-- Login Screen -->
     <string name="login_sub_title">To get started, first enter your email and password.</string>
