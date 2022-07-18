@@ -57,4 +57,9 @@
     <string name="otp_code_verification">Verification</string>
     <string name="otp_code_description">Enter one time password sent on 0123456789</string>
     <string name="otp_code_btn">Verify Code</string>
+
+    <!-- Bottom Navigation -->
+    <string name="menu_dashboard">Dashboard</string>
+    <string name="menu_about">Camera</string>
+    <string name="menu_settings">Settings</string>
 </resources>

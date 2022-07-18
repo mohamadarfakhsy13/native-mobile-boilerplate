@@ -9,6 +9,7 @@ import android.view.WindowManager;
 
 import com.arfakhsy.mobileboilerplate.R;
 import com.arfakhsy.mobileboilerplate.StartUpActivity;
+import com.arfakhsy.mobileboilerplate.landingpage.DashboardActivity;
 
 public class LoginActivity extends AppCompatActivity {
 
@@ -20,7 +21,8 @@ public class LoginActivity extends AppCompatActivity {
     }
 
     public void onClickLogin(View view) {
-
+        Intent intent = new Intent(getApplicationContext(), DashboardActivity.class);
+        startActivity(intent);
     }
 
     public void onClickSignUp(View view) {

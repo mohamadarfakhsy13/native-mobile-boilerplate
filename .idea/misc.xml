@@ -5,18 +5,24 @@
       <map>
         <entry key="..\:/sukasukacoding/native-mobile-boilerplate/app/src/main/res/drawable-night/ic_back.xml" value="0.1" />
         <entry key="..\:/sukasukacoding/native-mobile-boilerplate/app/src/main/res/drawable-night/ic_next.xml" value="0.1" />
+        <entry key="..\:/sukasukacoding/native-mobile-boilerplate/app/src/main/res/drawable/bottom_custom_nav.xml" value="0.165" />
         <entry key="..\:/sukasukacoding/native-mobile-boilerplate/app/src/main/res/drawable/btn_custom.xml" value="0.165" />
         <entry key="..\:/sukasukacoding/native-mobile-boilerplate/app/src/main/res/drawable/ic_back.xml" value="0.1" />
         <entry key="..\:/sukasukacoding/native-mobile-boilerplate/app/src/main/res/drawable/ic_next.xml" value="0.1" />
+        <entry key="..\:/sukasukacoding/native-mobile-boilerplate/app/src/main/res/drawable/selector.xml" value="0.165" />
+        <entry key="..\:/sukasukacoding/native-mobile-boilerplate/app/src/main/res/layout/activity_about.xml" value="0.20512820512820512" />
+        <entry key="..\:/sukasukacoding/native-mobile-boilerplate/app/src/main/res/layout/activity_dashboard.xml" value="0.264" />
         <entry key="..\:/sukasukacoding/native-mobile-boilerplate/app/src/main/res/layout/activity_forgot_password.xml" value="0.22826086956521738" />
         <entry key="..\:/sukasukacoding/native-mobile-boilerplate/app/src/main/res/layout/activity_forgot_password_success.xml" value="0.20512820512820512" />
         <entry key="..\:/sukasukacoding/native-mobile-boilerplate/app/src/main/res/layout/activity_login.xml" value="0.264" />
         <entry key="..\:/sukasukacoding/native-mobile-boilerplate/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
         <entry key="..\:/sukasukacoding/native-mobile-boilerplate/app/src/main/res/layout/activity_otp_verification.xml" value="0.20512820512820512" />
+        <entry key="..\:/sukasukacoding/native-mobile-boilerplate/app/src/main/res/layout/activity_setting.xml" value="0.1935897435897436" />
         <entry key="..\:/sukasukacoding/native-mobile-boilerplate/app/src/main/res/layout/activity_sign_up_main.xml" value="0.20512820512820512" />
         <entry key="..\:/sukasukacoding/native-mobile-boilerplate/app/src/main/res/layout/activity_sign_up_phone.xml" value="0.20512820512820512" />
         <entry key="..\:/sukasukacoding/native-mobile-boilerplate/app/src/main/res/layout/activity_sign_up_success.xml" value="0.1935897435897436" />
         <entry key="..\:/sukasukacoding/native-mobile-boilerplate/app/src/main/res/layout/activity_start_up.xml" value="0.2" />
+        <entry key="..\:/sukasukacoding/native-mobile-boilerplate/app/src/main/res/menu/bottom_nav_menu.xml" value="0.20253164556962025" />
       </map>
     </option>
   </component>
