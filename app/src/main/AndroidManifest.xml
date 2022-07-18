@@ -14,13 +14,13 @@
         android:theme="@style/Theme.MobileBoilerplate"
         tools:targetApi="31">
         <activity
-            android:name=".SignUpSuccessActivity"
-            android:exported="false" />
-        <activity
-            android:name=".SignUpPhoneActivity"
-            android:exported="false" />
-        <activity
             android:name=".ui.ForgotPasswordActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ui.SignUpSuccessActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ui.SignUpPhoneActivity"
             android:exported="false" />
         <activity
             android:name=".ui.SignUpMainActivity"
@@ -33,7 +33,6 @@
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
-
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
