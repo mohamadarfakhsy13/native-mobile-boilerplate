@@ -8,6 +8,7 @@ import android.view.View;
 import android.view.WindowManager;
 
 import com.arfakhsy.mobileboilerplate.R;
+import com.arfakhsy.mobileboilerplate.otp.OtpVerificationActivity;
 
 public class SignUpPhoneActivity extends AppCompatActivity {
 
@@ -24,7 +25,7 @@ public class SignUpPhoneActivity extends AppCompatActivity {
     }
 
     public void onClickSubmit(View view) {
-        Intent intent = new Intent(getApplicationContext(), SignUpSuccessActivity.class);
+        Intent intent = new Intent(getApplicationContext(), OtpVerificationActivity.class);
         startActivity(intent);
     }
 }

@@ -14,7 +14,10 @@
         android:theme="@style/Theme.MobileBoilerplate"
         tools:targetApi="31">
         <activity
-            android:name=".ForgotPasswordSuccessActivity"
+            android:name=".otp.OtpVerificationActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ui.ForgotPasswordSuccessActivity"
             android:exported="false" />
         <activity
             android:name=".ui.ForgotPasswordActivity"

@@ -51,4 +51,10 @@
     <string name="enter_new_password">New Password</string>
     <string name="reset_password_success_title">Password Changed!</string>
     <string name="reset_password_success_sub_title">Your password has been change successfully.</string>
+
+    <!-- OTP Verification -->
+    <string name="otp_code_title">CO\nDE</string>
+    <string name="otp_code_verification">Verification</string>
+    <string name="otp_code_description">Enter one time password sent on 0123456789</string>
+    <string name="otp_code_btn">Verify Code</string>
 </resources>
