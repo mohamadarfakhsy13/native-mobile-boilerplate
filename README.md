@@ -22,15 +22,15 @@ This repo to introduce the implementation for common component for UI/UX which c
 ### Demo
 <div align="center">
   <div style="display: flex;">
-    <img src="https://github.com/mohamadarfakhsy13/native-mobile-boilerplate/blob/main/mobile-boilerplate/01-startup.png?raw=true" width="210" height="350">
-    <img src="https://github.com/mohamadarfakhsy13/native-mobile-boilerplate/blob/main/mobile-boilerplate/02-create-account.png?raw=true" width="210" height="350">
-    <img src="https://github.com/mohamadarfakhsy13/native-mobile-boilerplate/blob/main/mobile-boilerplate/03-phone-no.png?raw=true" width="210" height="350">
-    <img src="https://github.com/mohamadarfakhsy13/native-mobile-boilerplate/blob/main/mobile-boilerplate/04-otp-verification.png?raw=true" width="210" height="350">
-    <img src="https://github.com/mohamadarfakhsy13/native-mobile-boilerplate/blob/main/mobile-boilerplate/05-success-create-account.png?raw=true" width="210" height="350">
-    <img src="https://github.com/mohamadarfakhsy13/native-mobile-boilerplate/blob/main/mobile-boilerplate/06-forgot-password.png?raw=true" width="210" height="350">
-    <img src="https://github.com/mohamadarfakhsy13/native-mobile-boilerplate/blob/main/mobile-boilerplate/07-success-change-password.png?raw=true" width="210" height="350">
-    <img src="https://github.com/mohamadarfakhsy13/native-mobile-boilerplate/blob/main/mobile-boilerplate/08-login.png?raw=true" width="210" height="350">
-    <img src="https://github.com/mohamadarfakhsy13/native-mobile-boilerplate/blob/main/mobile-boilerplate/09-startup-light-mode.png?raw=true" width="210" height="350">
+    <img src="https://github.com/mohamadarfakhsy13/native-mobile-boilerplate/blob/main/mobile-boilerplate/01-startup.png?raw=true" width="200" height="350">
+    <img src="https://github.com/mohamadarfakhsy13/native-mobile-boilerplate/blob/main/mobile-boilerplate/02-create-account.png?raw=true" width="200" height="350">
+    <img src="https://github.com/mohamadarfakhsy13/native-mobile-boilerplate/blob/main/mobile-boilerplate/03-phone-no.png?raw=true" width="200" height="350">
+    <img src="https://github.com/mohamadarfakhsy13/native-mobile-boilerplate/blob/main/mobile-boilerplate/04-otp-verification.png?raw=true" width="200" height="350">
+    <img src="https://github.com/mohamadarfakhsy13/native-mobile-boilerplate/blob/main/mobile-boilerplate/05-success-create-account.png?raw=true" width="200" height="350">
+    <img src="https://github.com/mohamadarfakhsy13/native-mobile-boilerplate/blob/main/mobile-boilerplate/06-forgot-password.png?raw=true" width="200" height="350">
+    <img src="https://github.com/mohamadarfakhsy13/native-mobile-boilerplate/blob/main/mobile-boilerplate/07-success-change-password.png?raw=true" width="200" height="350">
+    <img src="https://github.com/mohamadarfakhsy13/native-mobile-boilerplate/blob/main/mobile-boilerplate/08-login.png?raw=true" width="200" height="350">
+    <img src="https://github.com/mohamadarfakhsy13/native-mobile-boilerplate/blob/main/mobile-boilerplate/09-startup-light-mode.png?raw=true" width="200" height="350">
   </div>
 </div>
 
