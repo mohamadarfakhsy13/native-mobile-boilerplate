@@ -20,16 +20,6 @@ This repo to introduce the implementation for common component for UI/UX which c
 4. Responsive UI for mobile
 
 ### Demo
-![Screenshot](mobile-boilerplate/01-startup.png)
-![Screenshot](mobile-boilerplate/02-create-account.png)
-![Screenshot](mobile-boilerplate/03-phone-no.png)
-![Screenshot](mobile-boilerplate/04-otp-verification.png)
-![Screenshot](mobile-boilerplate/05-success-create-account.png)
-![Screenshot](mobile-boilerplate/06-forgot-password.png)
-![Screenshot](mobile-boilerplate/07-success-change-password.png)
-![Screenshot](mobile-boilerplate/08-login.png)
-![Screenshot](mobile-boilerplate/09-startup-light-mode.png)
-
 <div align="center">
   <div style="display: flex;">
     <img src="https://github.com/mohamadarfakhsy13/native-mobile-boilerplate/blob/main/mobile-boilerplate/01-startup.png?raw=true" width="220" height="350">
